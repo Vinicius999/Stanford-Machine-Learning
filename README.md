@@ -1,4 +1,4 @@
-<img src="https://github.com/Vinicius999/Stanford-Machine-Learning/blob/main/images/stanford-logo.png" alt="Figure"/>
+<img src="https://github.com/Vinicius999/Stanford-Machine-Learning/blob/main/images/stanford.png" alt="Figure"/>
 
 
 <h1 align="center">  &#129302; Stanford - Machine Learning</h1>
@@ -16,7 +16,12 @@
 <p style='margin: 16px 4px 32px;'>
     <a href="https://www.gnu.org/software/octave/index" target="_blank" rel="noreferrer">
         <img src="https://github.com/Vinicius999/Stanford-Machine-Learning/blob/main/images/octave.png" alt="GNU-octave" width="40" height="40" />
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+    </a>
 </p>
+
 
 
 ## Projetos
