@@ -1,4 +1,4 @@
-<img src="https://github.com/Vinicius999/Stanford-Machine-Learning/blob/main/images/stanford-logo.png" alt="Figure" style="zoom:10%;" />
+<img src="https://github.com/Vinicius999/Stanford-Machine-Learning/blob/main/images/stanford-logo.png" alt="Figure" height="100"/>
 
 
 <h1 align="center">  &#129302; Stanford - Machine Learning</h1>
