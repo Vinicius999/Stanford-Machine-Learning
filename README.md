@@ -23,8 +23,17 @@
 </p>
 
 
-
 ## Projetos
+
+Na semana 1 não há atividades práticas, onde estas só iniciam na semana 2 em diante, com um projeto prático para cada semana.
+
+- [Weak 02 - Linear Regression](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2002)
+- [Weak 03 - Logistic Regression](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2003)
+- [Weak 04 - Multi-class Classification and Neural Networks](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2004)
+- [Weak 05 - Neural Networks Learning](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2005)
+- [Weak 06 - Regularized Linear Regression and Bias vs. Variance](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2006)
+- [Weak 07 - Support Vector Machines](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2007)
+- [Weak 08 - K-means Clustering and Principal Component Analysis](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2008)
 
 <h4 align="center"> &#128679; Em construção... &#128679; </h4>
 
