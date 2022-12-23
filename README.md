@@ -34,6 +34,7 @@ Na semana 1 não há atividades práticas, onde estas só iniciam na semana 2 em
 - [Weak 06 - Regularized Linear Regression and Bias vs. Variance](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2006)
 - [Weak 07 - Support Vector Machines](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2007)
 - [Weak 08 - K-means Clustering and Principal Component Analysis](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2008)
+- [Weak 08](https://github.com/Vinicius999/Stanford-Machine-Learning/tree/main/Week%2009)
 
 <h4 align="center"> &#128679; Em construção... &#128679; </h4>
 
